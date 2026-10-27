@@ -107,8 +107,6 @@
     "other": "%1 tòcan an-diugh"
   },
   "agents.unknownModel": "Neo-aithnichte",
-  "agents.usageNotUpdated": "Cha deach an cleachdadh ùrachadh fhathast.",
-  "agents.usageUnavailable": "Chan eil an cleachdadh ri làimh",
   "agents.use": "Cleachd",
   "agents.waitingForAuth": "A' feitheamh ri dearbhadh",
   "agents.windowLimit": "Crìoch",

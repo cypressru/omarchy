@@ -16,7 +16,7 @@ Leumaidh tu eadar na panaichean le `Tab`. Sa phana Files, taghaidh tu faidhliche
 
 ## Herdr
 
-'S e manaidsear rum-obrach tèirmineil a th' ann an [Herdr](https://github.com/omacom-io/herdr) a bheir dhut rumannan-obrach, tabaichean is panaichean, agus a chumas iad uile a' ruith ann an seisean maireannach as urrainn dhut dealachadh ris agus tilleadh thuige às dèidh làimhe.
+'S e manaidsear rùm-obrach tèirmineil a th' ann an [Herdr](https://github.com/omacom-io/herdr) a bheir dhut rumannan-obrach, tabaichean is panaichean, agus a chumas iad uile a' ruith ann an seisean maireannach as urrainn dhut dealachadh ris agus tilleadh thuige às dèidh làimhe.
 
 Tòisichidh tu e (no ceanglaidh tu ris an t-seisean a th' agad mu thràth a-rithist) le `Super + Ctrl + Return`. Thig Omarchy le rèiteachadh Herdr a tha coltach ris an rèiteachadh Tmux aige, mar sin 's e `Ctrl + Space` an iuchair ro-leasachain an-seo cuideachd. 'S urrainn dhut sùil a thoirt air na ceanglaichean iuchrach uile le `Super + Ctrl + K`.
 

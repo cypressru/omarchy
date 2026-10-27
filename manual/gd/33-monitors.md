@@ -40,7 +40,7 @@ Nuair a bhios tu a' leudachadh, ma dhùineas tu mullach an laptop, thèid an sgr
 
 Obraichidh Hyprland gu math le iomadh sgrìn. Leugh barrachd mu mar a chuireas tu an òrdugh iad ann [an docamaideadh mu mhonatairean aig Hyprland](https://wiki.hypr.land/Configuring/Basics/Monitors/). Ann an Omarchy, thèid iad seo ann an `~/.config/hypr/monitors.lua` mar nithean `hl.monitor` — thig am faidhle le eisimpleirean ann am beachdan airson monatair sònraichte a cheangal ri dùmhlachd-bhreacaidh, ionad agus cuairteachadh.
 
-Tha rumannan-obrach 1 gu 10 aig gach monatair dha fhèin, mar sin ciallaichidh `Super + 1` a' chiad rum-obrach air a' mhonatair air a bheil thu an-còmhnaidh. Air cùl na seallaidh, àireamhaichidh Hyprland na rumannan-obrach thar nam monatairean uile fhathast: gheibh sgrìn an laptop agad (no a' chiad mhonatair) 1–10, an ath mhonatair 11–20, is mar sin air adhart, agus cumaidh gach monatair am bloca aige gach turas a cheanglas tu a-steach e. Cleachd na h-àireamhan sin ma sgrìobhas tu [riaghailtean rumannan-obrach](https://wiki.hypr.land/Configuring/Basics/Workspace-Rules/) no riaghailtean uinneagan airson monatair sònraichte, mar sin 's e rum-obrach 12 an dàrna rum-obrach air an dàrna monatair agad. Seallaidh `~/.local/state/omarchy/monitor-workspaces` dè am bloca a th' aig gach monatair.
+Tha rumannan-obrach 1 gu 10 aig gach monatair dha fhèin, mar sin ciallaichidh `Super + 1` a' chiad rùm-obrach air a' mhonatair air a bheil thu an-còmhnaidh. Air cùl na seallaidh, àireamhaichidh Hyprland na rumannan-obrach thar nam monatairean uile fhathast: gheibh sgrìn an laptop agad (no a' chiad mhonatair) 1–10, an ath mhonatair 11–20, is mar sin air adhart, agus cumaidh gach monatair am bloca aige gach turas a cheanglas tu a-steach e. Cleachd na h-àireamhan sin ma sgrìobhas tu [riaghailtean rumannan-obrach](https://wiki.hypr.land/Configuring/Basics/Workspace-Rules/) no riaghailtean uinneagan airson monatair sònraichte, mar sin 's e rùm-obrach 12 an dàrna rùm-obrach air an dàrna monatair agad. Seallaidh `~/.local/state/omarchy/monitor-workspaces` dè am bloca a th' aig gach monatair.
 
 Obraichidh na h-iuchraichean-saighde thar monatairean a tha a' co-roinneadh oir sa cho-dhealbhachd agad. Chan eil sgrìnichean nach suath ri chèile ach aig oisean, no aig a bheil beàrn eatarra, nan nàbaidhean, mar sin cleachd `Ctrl + Alt + Tab` gus a dhol eatarra.
 
@@ -49,8 +49,8 @@ Obraichidh na h-iuchraichean-saighde thar monatairean a tha a' co-roinneadh oir 
 | `Super + Arrow` | Gluaisidh e am fòcas dhan mhonatair air an taobh sin nuair nach eil uinneag air fhàgail san taobh sin |
 | `Super + Shift + Arrow` | Malairtidh e àite ri uinneag air a' mhonatair air an taobh sin |
 | `Super + Alt + Arrow` | Gluaisidh e an uinneag gu buidheann air a' mhonatair air an taobh sin |
-| `Super + Shift + Ctrl + Arrow` | Gluaisidh e an uinneag dhan mhonatair air an taobh sin, dhan rum-obrach a tha e a' sealltainn |
-| `Super + Shift + Alt + Arrow` | Gluaisidh e an rum-obrach dhan mhonatair air an taobh sin, a' cumail na h-àireimh aige ma tha i saor |
+| `Super + Shift + Ctrl + Arrow` | Gluaisidh e an uinneag dhan mhonatair air an taobh sin, dhan rùm-obrach a tha e a' sealltainn |
+| `Super + Shift + Alt + Arrow` | Gluaisidh e an rùm-obrach dhan mhonatair air an taobh sin, a' cumail na h-àireimh aige ma tha i saor |
 | `Ctrl + Alt + Tab` / `Ctrl + Alt + Shift + Tab` | Gluaisidh e am fòcas dhan ath mhonatair no dhan fhear roimhe, ge b' e dè a' cho-dhealbhachd |
 | `Super + 1-0`, `Super + Tab`, `Super + Scroll Wheel` | Fanaidh iad air a' mhonatair air a bheil thu |
 

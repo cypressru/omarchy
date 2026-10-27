@@ -17,7 +17,7 @@ Nì cha mhòr gach widget rudeigin le briogadh clì, deas agus meadhanach, agus 
 | Widget | Clì | Deas | Meadhanach / sgroladh |
 | --- | --- | --- | --- |
 | Clàr-taice | Clàr-taice Omarchy | Tèirmineal ùr | — |
-| Rumannan-obrach | Cuir fòcas air an rum-obrach sin air a' mhonatair seo | — | Sgroladh: an ath rum-obrach / an rum-obrach roimhe |
+| Rumannan-obrach | Cuir fòcas air an rùm-obrach sin air a' mhonatair seo | — | Sgroladh: an ath rùm-obrach / an rùm-obrach roimhe |
 | Uaireadair | Priob-uinneag a' mhìosachain | Cuairtich fòrmat an leubail | Meadhanach: taghadair na roinn-tìde |
 | Aimsir | Priob-uinneag na ro-aithris | An aimsir shlàn mar bhrath | Meadhanach: ath-nuadhaich |
 | Fuaim | Panail na fuaime | Mùch | Meadhanach: panail · sgroladh: àirde na fuaime |
@@ -56,7 +56,7 @@ Chan e dìreach leughaidhean a th' anns na panailean. 'S ann annta a nì thu an 
 - **Cumhachd**: seallaidh e stadastaireachd a' bhataraidh, atharraichidh e pròifilean cumhachd (cuimhnichidh e roghainn fa leth airson bataraidh is AC), agus clò-bhuailidh e beagan fiosrachaidh mun t-siostam.
 - **Uidheam-taisbeanaidh**: tha sleamhnag soilleireachd ann, meud an teacsa, ro-sheataichean sgèileadh a' mhonatair, agus — nuair a bhios barrachd air aon sgrìn agad — uidheaman-smachd airson gach monatair. Faic [monatairean](33-monitors.md) airson an sgeulachd gu lèir.
 - **Uaireadair**: fosglaidh e cliath mìosa le àireamhan sheachdainean ISO agus gluasad o mhìos gu mìos.
-- **Uaireadair an t-saoghail**: cumaidh e sreath airson gach baile, le aimsir agus mar a tha an latha a' dol ann. Lorgaidh an lorg bailtean a bharrachd air roinnean-tìde, mar sin 's e Fort Lauderdale a th' ann am Fort Lauderdale is chan e New York. Ma tha an loidhne aig a' bharr ag ainmeachadh a' bhaile chearr, briog oirre is innis far a bheil thu; tagh àite ann an roinn-tìde eile agus gluaisidh uaireadair an t-siostaim ann cuideachd, rud a tha feumail nuair a bhios tu a' siubhal. Cùm an luchag os cionn baile is briog air putan an neach gus innse cò tha a' fuireach ann — ainmean sìmplidh, no làmhan GitHub le `@` gus an aodainn a thoirt leotha.
+- **Uaireadair an t-saoghail**: cumaidh e sreath airson gach baile, le aimsir agus mar a tha an latha a' dol ann. Lorgaidh an lorg bailtean a bharrachd air roinnean-tìde, mar sin 's e Fort Lauderdale a th' ann am Fort Lauderdale is chan e New York. Ma tha an loidhne aig a' bhàrr ag ainmeachadh a' bhaile chearr, briog oirre is innis far a bheil thu; tagh àite ann an roinn-tìde eile agus gluaisidh uaireadair an t-siostaim ann cuideachd, rud a tha feumail nuair a bhios tu a' siubhal. Cùm an luchag os cionn baile is briog air putan an neach gus innse cò tha a' fuireach ann — ainmean sìmplidh, no làmhan GitHub le `@` gus an aodainn a thoirt leotha.
 
 Gabhaidh gach panail ris a' mheur-chlàr a bharrachd air an luchaig: gluaisidh na saighdean, cuiridh Return an gnìomh, thèid Tab chun a' phanail ri thaobh, agus dùinidh Escape e.
 

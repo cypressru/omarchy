@@ -21,18 +21,18 @@ Chì thu a h-uile prìomh cheangal iuchrach le `Super + K` (ceanglaichean iuchra
 | `Super + F`                 | Làn-sgrìn              |
 | `Super + Alt + F`                 | Làn-leud              |
 | `Super + Ctrl + F`                 | Làn-sgrìn am broinn na h-uinneige              |
-| `Super + 1/2/3/4`         | Leum gu rum-obrach sònraichte air a' mhonatair le fòcas |
-| `Super + Tab` | Leum gun ath rum-obrach air a' mhonatair le fòcas |
-| `Super + Shift + Tab` | Leum gun rum-obrach roimhe air a' mhonatair le fòcas |
-| `Super + Ctrl + Tab` | Leum gun rum-obrach mu dheireadh air a' mhonatair le fòcas |
-| `Super + Shift + 1/2/3/4` | Gluais an uinneag gu rum-obrach air a' mhonatair le fòcas |
-| `Super + Shift + Alt + 1/2/3/4` | Gluais an uinneag gu rum-obrach air a' mhonatair le fòcas gun a leantainn |
+| `Super + 1/2/3/4`         | Leum gu rùm-obrach sònraichte air a' mhonatair le fòcas |
+| `Super + Tab` | Leum gun ath rùm-obrach air a' mhonatair le fòcas |
+| `Super + Shift + Tab` | Leum gun rùm-obrach roimhe air a' mhonatair le fòcas |
+| `Super + Ctrl + Tab` | Leum gun rùm-obrach mu dheireadh air a' mhonatair le fòcas |
+| `Super + Shift + 1/2/3/4` | Gluais an uinneag gu rùm-obrach air a' mhonatair le fòcas |
+| `Super + Shift + Alt + 1/2/3/4` | Gluais an uinneag gu rùm-obrach air a' mhonatair le fòcas gun a leantainn |
 | `Super + S` | Toglaich am pada-sgrìobaidh làn |
 | `Super + Alt + S` | Gluais an uinneag dhan phada-sgrìobaidh làn |
 | `Super + Grave` | Toglaich consoil Quake |
 | `Super + Shift + Grave` | Gluais an uinneag gu consoil Quake |
 | `Super + Shift + Ctrl + Arrows` | Gluais an uinneag dhan mhonatair san taobh sin |
-| `Super + Shift + Alt + Arrows` | Gluais an rum-obrach dhan mhonatair san taobh sin |
+| `Super + Shift + Alt + Arrows` | Gluais an rùm-obrach dhan mhonatair san taobh sin |
 | `Super + Arrow`  | Gluais am fòcas dhan uinneag an comhair na saighde, a' dol tarsainn dhan mhonatair air an taobh sin aig oir na sgrìn |
 | `Super + Shift + Arrow`  | Dèan iomlaid air an uinneag le tè eile an comhair na saighde, a' gabhail a-steach tè air a' mhonatair air an taobh sin |
 | `Super + Minus` | Leudaich an uinneag gu clì |
@@ -58,8 +58,8 @@ Chì thu a h-uile prìomh cheangal iuchrach le `Super + K` (ceanglaichean iuchra
 | `Super + Ctrl + Alt + Z` | Sùm a-mach gu tur on sgrìn |
 | `Super + /` | Rach air adhart tro roghainnean sgèileadh a' mhonatair |
 | `Super + Alt + /` | Rach air ais tro roghainnean sgèileadh a' mhonatair |
-| `Alt + Tab` | Cuairtich air adhart tro na h-uinneagan san rum-obrach ghnìomhach |
-| `Alt + Shift + Tab` | Cuairtich air ais tro na h-uinneagan san rum-obrach ghnìomhach |
+| `Alt + Tab` | Cuairtich air adhart tro na h-uinneagan san rùm-obrach ghnìomhach |
+| `Alt + Shift + Tab` | Cuairtich air ais tro na h-uinneagan san rùm-obrach ghnìomhach |
 | `Ctrl + Alt + Tab`| Cuairtich am fòcas air adhart tro na monatairean |
 | `Ctrl + Alt + Shift + Tab`| Cuairtich am fòcas air ais tro na monatairean |
 
